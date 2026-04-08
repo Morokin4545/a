@@ -1,0 +1,7 @@
+{
+  "InGameCharacter_OnUpdate": "0x50DEF0",
+  "get_JumpPower": "0x506DBC",
+  "get_MoveSpeed": "0x506C30",
+  "Appguard_Bypass_1": "0x4DE196C",
+  "Appguard_Bypass_2": "0x4DAD478",
+}
